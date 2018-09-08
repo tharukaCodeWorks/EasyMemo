@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Easy Memo</string>
+    <string name="easy_memo"><b>Easy Memo</b></string>
+    <string name="search">Search</string>
+    <string name="new_memo">New Memo</string>
+    <string name="save">Save</string>
+    <string name="no_any_post_to_view">No any post to view</string>
+    <string name="update">Update</string>
+</resources>
